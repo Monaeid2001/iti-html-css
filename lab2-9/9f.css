@@ -1,0 +1,40 @@
+
+
+
+
+img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+
+}
+#n1{
+ font-weight: bold;
+ margin-top: 3px;
+ margin-bottom: 2px;
+}
+#n2{
+margin-bottom: 4px;
+color: rgb(100, 100, 100);
+font-size: 12px;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
+button{
+    width:100px;
+    height: 25px;
+    background-color: rgba(0, 89, 255, 0.63);
+    border:none;
+    color: white;
+    border-radius: 4px;
+}
+.d1{
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.267);
+    padding:10px 10px 10px 10px;
+    width:130px;
+    height:200px;
+
+}
